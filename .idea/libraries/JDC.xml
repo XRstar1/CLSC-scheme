@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="JDC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/bcprov-jdk16-1.46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jna-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jpbc-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jpbc-benchmark-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jpbc-crypto-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jpbc-mm-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jpbc-pbc-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jpbc-plaf-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
